@@ -11,10 +11,11 @@ Overview
 Nightwatch is intended to be an unobtrusive device to aid with supervisory/care-taking tasks in the night-time. 
 Think parents of young children, or people taking care of a person with a disease, old-age, disabilities or a mental disorder.
 
-Primary function of Nightwatch
-- Give a soft glow to the room when one of the caregiver comes out of bed. <br/>
+Primary function of Nightwatch:
+- Give a soft glow to the room when one of the caregivers comes out of bed.<br/>
 Softly enough not to wake any bed/roommates, but bright enough for the care giver to safely navigate the room. <br/>
-*No more banged toes, no more grumpy partners!*
+*No more banged toes, no more grumpy partners!*<br/>
+(This assuming a scenario where there is more than one caregiver, and all are sharing a bed/room. Single caregivers can simply enjoy no more banged toes without having to reach for the light.)
 
 Secondary functions are:
 - Alarmclock w. optional wake-up light
