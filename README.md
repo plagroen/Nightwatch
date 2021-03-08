@@ -4,7 +4,7 @@
 -----------------
 This project is not even in its infancy, it's still only being conceived. <br/>
 The chances of this ever coming to fruition are slim, at best. Be advised that any effort you may put in will likely be in vain. <br/>
-That said, any contributions and/or suggestions are welcome.
+As of yet, most of the code are snippets and bits from tutorials. That said, any contributions and/or suggestions are welcome.
 
 Overview
 --------
